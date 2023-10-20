@@ -170,6 +170,11 @@ section {
 	padding-right: 2px;
 }
 
+.services .col-md-5 {
+	padding-left: 10px;
+	padding-right: 2px;
+}
+
 .services .service-item {
 	margin-bottom: 3px;
 	background-color: #eaebef;
