@@ -160,6 +160,16 @@ section {
 	margin-top: 100px;
 }
 
+.services img {
+	height: 350px;
+	display: inline-block;
+	margin-bottom: 15px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	transition: all 0.5s;
+    object-fit: cover;
+}
+
 .services .container-fluid {
 	padding-left: 13px;
 	padding-right: 13px;
@@ -404,7 +414,6 @@ section.contact-form {
     color: #fff;
     background-color: rgba(83,91,160,1);
 }
-
 
 /* Tables */
 
